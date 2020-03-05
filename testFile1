@@ -1,0 +1,8 @@
+"This is one of my first times using git"
+"First I needed to clone my remote repository to my local files"
+"Then I created a file on my linux file system"
+"Now I must add it to the staging area"
+"From there I can commit the changes I have made to my local repository"
+"Finally I must push these changes to my remote, Test repository"
+
+"I should be able to view this on GitHub, and add a 100 2 lines below"
