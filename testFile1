@@ -6,3 +6,5 @@
 "Finally I must push these changes to my remote, Test repository"
 
 "I should be able to view this on GitHub, and add a 100 2 lines below"
+
+100 - Hello, this was added from the remote repository.
